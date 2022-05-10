@@ -8,20 +8,19 @@ Created on Tue May 10 12:24:06 2022
 
 
 import pandas as pd
-import numpy as np
-import io
-from zipfile import ZipFile
-import os
+# import numpy as np
+# import io
+# from zipfile import ZipFile
+# import os
 # import matplotlib.pyplot as plt
 import networkx as nx
 from pyvis.network import Network
-import networkx as nx
 import matplotlib.cm as cm
 import matplotlib
-from matplotlib.cm import ScalarMappable
+# from matplotlib.cm import ScalarMappable
 import matplotlib as mpl
 import streamlit as st
-import streamlit.components.v1 as components
+# import streamlit.components.v1 as components
 
 
 st.title('Cobalt Trade Network')
