@@ -14,15 +14,8 @@ from pyvis.network import Network
 # 2019-2020_LithiumIon.html
 
 # Read dataset
-# libattery_nodes_2018 = pd.read_csv('./network_product_data/libattery_nodes_2018.csv')
-# libattery_nodes_2019 = pd.read_csv('./network_product_data/libattery_nodes_2019.csv')
-# libattery_nodes_2020 = pd.read_csv('./network_product_data/libattery_nodes_2020.csv')
-df_interact = pd.read_csv('./network_product_data/libattery_nodes_2020_subtract_2019.csv')
 
-# get information for edge data
-# sources = df_interact['sources']   #exporters
-# targets = df_interact['targets']   #importers
-# weights = df_interact['q']         #tons of exports
+df_interact = pd.read_csv('./network_product_data/libattery_nodes_2020_subtract_2019.csv')
 
 
 # Set header title

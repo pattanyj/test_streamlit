@@ -19,11 +19,11 @@ import matplotlib.cm as cm
 import matplotlib
 # from matplotlib.cm import ScalarMappable
 import matplotlib as mpl
-import streamlit as st
+# import streamlit as st
 # import streamlit.components.v1 as components
 
 
-st.title('Cobalt Trade Network')
+# st.title('Cobalt Trade Network')
 
 
 #wgi
@@ -82,33 +82,33 @@ norm = mpl.colors.Normalize(vmin=-2.5, vmax=2.5)
 
 
 #network 
-def plot_network(hs_code):
-    cent = df_bet_cent
-    data_f = data[data['k']==int(hs_code)].copy()[['i', 'j', 'q']].dropna()
-    unique_countries = list(pd.unique(data_f[['i', 'j']].values.ravel('K')))
-    
-    net_nodes = countries_corr[countries_corr['country_code'].isin(unique_countries)]
-    net_nodes = pd.merge(net_nodes, wgi, how='left', on='country')
-    net_nodes = pd.merge(net_nodes, cent, how='left', on='country_code')
-    
-    sizes = list(net_nodes['centrality_value']*100 + 0.001)
+# def plot_network(hs_code):
+cent = df_bet_cent
+data_f = data[data['k']==int(hs_code)].copy()[['i', 'j', 'q']].dropna()
+unique_countries = list(pd.unique(data_f[['i', 'j']].values.ravel('K')))
 
-    nt = Network()
-    nt.add_nodes(list(net_nodes['country_code']),
-                 label = list(net_nodes['country']),
-                 size = sizes,
-                 color  = [matplotlib.colors.rgb2hex(cm.seismic_r(norm(x))) for x in net_nodes['WGI']])
-    
-    for index, row in data_f.iterrows():
-        nt.add_edge(row['i'], row['j'], weight=row['q']/(data_f['q'].sum()))
-    
-    #plt.colorbar()
-    nt.save_graph('Jasmine.html')
-    # nt.show('Jasmine.html')
-    HtmlFile = open('Jasmine.html', 'r', encoding='utf-8')
-    return
+net_nodes = countries_corr[countries_corr['country_code'].isin(unique_countries)]
+net_nodes = pd.merge(net_nodes, wgi, how='left', on='country')
+net_nodes = pd.merge(net_nodes, cent, how='left', on='country_code')
 
-plot_network(hs_code = '841013')
+sizes = list(net_nodes['centrality_value']*100 + 0.001)
+
+nt = Network()
+nt.add_nodes(list(net_nodes['country_code']),
+             label = list(net_nodes['country']),
+             size = sizes,
+             color  = [matplotlib.colors.rgb2hex(cm.seismic_r(norm(x))) for x in net_nodes['WGI']])
+
+for index, row in data_f.iterrows():
+    nt.add_edge(row['i'], row['j'], weight=row['q']/(data_f['q'].sum()))
+
+# plt.colorbar()
+nt.save_graph('Jasmine.html')
+# nt.show('Jasmine.html')
+HtmlFile = open('Jasmine.html', 'r', encoding='utf-8')
+# return
+
+# plot_network(hs_code = '841013')
 
 
 
