@@ -19,11 +19,11 @@ import matplotlib.cm as cm
 import matplotlib
 # from matplotlib.cm import ScalarMappable
 import matplotlib as mpl
-# import streamlit as st
-# import streamlit.components.v1 as components
+import streamlit as st
+import streamlit.components.v1 as components
 
 
-# st.title('Cobalt Trade Network')
+st.title('Cobalt Trade Network')
 
 
 #wgi
@@ -102,13 +102,19 @@ nt.add_nodes(list(net_nodes['country_code']),
 for index, row in data_f.iterrows():
     nt.add_edge(row['i'], row['j'], weight=row['q']/(data_f['q'].sum()))
 
-# plt.colorbar()
-nt.save_graph('Jasmine.html')
-# nt.show('Jasmine.html')
-HtmlFile = open('Jasmine.html', 'r', encoding='utf-8')
-# return
+try:
+    # path = '/tmp'
+    nt.save_graph('JAsmine.html')
+    HtmlFile = open('JAsmine.html', 'r', encoding='utf-8')
 
-# plot_network(hs_code = '841013')
+# Save and read graph as HTML file (locally)
+except:
+    # path = '/html_files'
+    nt.save_graph('JAsmine.html')
+    HtmlFile = open('JAsmine.html', 'r', encoding='utf-8')
+
+# Load HTML file in HTML component for display on Streamlit page
+components.html(HtmlFile.read(), height = 1200,width=1000, scrolling = True)
 
 
 
