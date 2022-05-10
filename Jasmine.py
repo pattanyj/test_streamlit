@@ -12,7 +12,7 @@ import numpy as np
 import io
 from zipfile import ZipFile
 import os
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import networkx as nx
 from pyvis.network import Network
 import networkx as nx
