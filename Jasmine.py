@@ -27,20 +27,20 @@ st.title('Cobalt Trade Network')
 
 
 #wgi
-def get_wgi(year = 2018):
-    wgi_files = pd.ExcelFile('wgidataset.xlsx').sheet_names
+# def get_wgi(year = 2018):
+#     wgi_files = pd.ExcelFile('wgidataset.xlsx').sheet_names
     
-    wgi = []
+#     wgi = []
 
-    for file in wgi_files[1:]:
-            wgi_d = pd.read_excel('wgidataset.xlsx', sheet_name= file, skiprows = 13, header = [0,1], index_col=[0,1])[[(year, 'Estimate')]]
-            wgi_d.columns = [file]
-            wgi.append(wgi_d)
-    wgi = pd.concat(wgi, axis=1)
-    wgi = wgi.mean(axis=1).reset_index()
-    wgi.columns = ['Country/Territory', 'country', 'WGI']
+#     for file in wgi_files[1:]:
+#             wgi_d = pd.read_excel('wgidataset.xlsx', sheet_name= file, skiprows = 13, header = [0,1], index_col=[0,1])[[(year, 'Estimate')]]
+#             wgi_d.columns = [file]
+#             wgi.append(wgi_d)
+#     wgi = pd.concat(wgi, axis=1)
+#     wgi = wgi.mean(axis=1).reset_index()
+#     wgi.columns = ['Country/Territory', 'country', 'WGI']
 
-    return wgi
+#     return wgi
 
 
 
@@ -48,7 +48,8 @@ year = 2018
 alfa_thold = 0.4
 hs_code = '841013'
 
-wgi = get_wgi(year)
+# wgi = get_wgi(year)
+wgi = pd.read_csv('wgidataset.csv')
 
 
 #BACI database
@@ -60,7 +61,7 @@ data = data[data['k']==int(hs_code)]
 
 
 #remove some minor countries from BACI without WGI correspondence and without WGI values (NA) --> 
-countries_corr = pd.read_excel('correspondence_BACI_WGI.xlsx', sheet_name = 'Correspondence')
+countries_corr = pd.read_csv('correspondence_BACI_WGI.csv')
 countries_corr = countries_corr[['Country/Territory', 'country', 'country_code']].dropna()
 
 data = data[(data['i'].isin(list(countries_corr['country_code']))) & (data['j'].isin(list(countries_corr['country_code'])))]

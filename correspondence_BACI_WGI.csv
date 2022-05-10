@@ -1,0 +1,219 @@
+﻿Country/Territory,country,WGI,country_code,country_name_abbreviation,country_name_full,iso_2digit_alpha,iso_3digit_alpha
+Aruba,ABW,1.188831816,533,Aruba,Aruba,AW,ABW
+Andorra,ADO,1.413009405,20,Andorra,Andorra,AD,AND
+Afghanistan,AFG,-1.582816005,4,Afghanistan,Afghanistan,AF,AFG
+Angola,AGO,-0.89243408,24,Angola,Angola,AO,AGO
+Anguilla,AIA,0.817567018,660,Anguilla,Anguilla,AI,AIA
+Albania,ALB,0.009153685,8,Albania,Albania,AL,ALB
+Netherlands Antilles (former),ANT,,,,,,
+United Arab Emirates,ARE,0.653821846,784,United Arab Emirates,United Arab Emirates,AE,ARE
+Argentina,ARG,0.001337751,32,Argentina,Argentina,AR,ARG
+Armenia,ARM,-0.123586409,51,Armenia,Armenia,AM,ARM
+American Samoa,ASM,0.935465896,16,American Samoa,American Samoa,AS,ASM
+Antigua and Barbuda,ATG,0.424556968,28,Antigua and Barbuda,Antigua and Barbuda,AG,ATG
+Australia,AUS,1.575390359,36,Australia,Australia,AU,AUS
+Austria,AUT,1.457802703,40,Austria,Austria,AT,AUT
+Azerbaijan,AZE,-0.670597593,31,Azerbaijan,Azerbaijan,AZ,AZE
+Burundi,BDI,-1.42740201,108,Burundi,Burundi,BI,BDI
+Belgium,BEL,1.187586789,56,Belgium,Belgium,BE,BEL
+Belgium,BEL,1.187586789,58,Belgium-Luxembourg,Belgium-Luxembourg,BE,BEL
+Benin,BEN,-0.304841471,204,Benin,Benin,BJ,BEN
+Burkina Faso,BFA,-0.433514057,854,Burkina Faso,Burkina Faso,BF,BFA
+Bangladesh,BGD,-0.806566755,50,Bangladesh,Bangladesh,BD,BGD
+Bulgaria,BGR,0.244810723,100,Bulgaria,Bulgaria,BG,BGR
+Bahrain,BHR,-0.230790916,48,Bahrain,Bahrain,BH,BHR
+"Bahamas, The",BHS,0.602224955,44,Bahamas,Bahamas,BS,BHS
+Bosnia and Herzegovina,BIH,-0.377286566,70,Bosnia Herzegovina,Bosnia Herzegovina,BA,BIH
+Belarus,BLR,-0.495438553,112,Belarus,Belarus,BY,BLR
+Belize,BLZ,-0.290616399,84,Belize,Belize,BZ,BLZ
+Bermuda,BMU,1.097039807,60,Bermuda,Bermuda,BM,BMU
+Bolivia,BOL,-0.552967381,68,Bolivia (Plurinational State of),Plurinational State of Bolivia,BO,BOL
+Brazil,BRA,-0.235594586,76,Brazil,Brazil,BR,BRA
+Barbados,BRB,0.803689246,52,Barbados,Barbados,BB,BRB
+Brunei Darussalam,BRN,0.628102918,96,Brunei Darussalam,Brunei Darussalam,BN,BRN
+Bhutan,BTN,0.563115821,64,Bhutan,Bhutan,BT,BTN
+South Sudan,SSD,-2.09832116,728,South Sudan,South Sudan,SS,SSD
+Botswana,BWA,0.57604675,72,Botswana,Botswana,BW,BWA
+Central African Republic,CAF,-1.561897814,140,Central African Rep.,Central African Republic,CF,CAF
+Canada,CAN,1.586424669,124,Canada,Canada,CA,CAN
+Switzerland,CHE,1.789269765,757,Switzerland,"Switzerland, Liechtenstein",CH,CHE
+Chile,CHL,1.008314838,152,Chile,Chile,CL,CHL
+China,CHN,-0.320005981,156,China,China,CN,CHN
+Côte d'Ivoire,CIV,-0.495075494,384,C�te d'Ivoire,C�te d'Ivoire,CI,CIV
+Cameroon,CMR,-1.056248864,120,Cameroon,Cameroon,CM,CMR
+"Congo, Rep.",COG,-1.087797458,178,Congo,Congo,CG,COG
+Cook Islands,COK,,,,,,
+Colombia,COL,-0.176456913,170,Colombia,Colombia,CO,COL
+Comoros,COM,-0.910539304,174,Comoros,Comoros,KM,COM
+Cape Verde,CPV,0.523944882,132,Cabo Verde,Cabo Verde,CV,CPV
+Costa Rica,CRI,0.58630691,188,Costa Rica,Costa Rica,CR,CRI
+Cuba,CUB,-0.461975083,192,Cuba,Cuba,CU,CUB
+Cayman Islands,CYM,0.84814102,136,Cayman Isds,Cayman Islands,KY,CYM
+Cyprus,CYP,0.787440921,196,Cyprus,Cyprus,CY,CYP
+Czech Republic,CZE,0.95356365,203,Czechia,Czechia,CZ,CZE
+Germany,DEU,1.49699085,276,Germany,Germany,DE,DEU
+Germany,DEU,1.49699085,280,Fmr Fed. Rep. of Germany,Former Federal Republic of Germany,DE,DEU
+Djibouti,DJI,-0.786203988,262,Djibouti,Djibouti,DJ,DJI
+Dominica,DMA,0.489094622,212,Dominica,Dominica,DM,DMA
+Denmark,DNK,1.675704261,208,Denmark,Denmark,DK,DNK
+Dominican Republic,DOM,-0.23807927,214,Dominican Rep.,Dominican Republic,DO,DOM
+Algeria,DZA,-0.820021907,12,Algeria,Algeria,DZ,DZA
+Ecuador,ECU,-0.398549877,218,Ecuador,Ecuador,EC,ECU
+"Egypt, Arab Rep.",EGY,-0.817976957,818,Egypt,Egypt,EG,EGY
+Eritrea,ERI,-1.602583289,232,Eritrea,Eritrea,ER,ERI
+Spain,ESP,0.81571878,724,Spain,Spain,ES,ESP
+Estonia,EST,1.216459701,233,Estonia,Estonia,EE,EST
+Ethiopia,ETH,-0.818513369,231,Ethiopia,Ethiopia,ET,ETH
+Finland,FIN,1.759408245,246,Finland,Finland,FI,FIN
+Fiji,FJI,0.231108973,242,Fiji,Fiji,FJ,FJI
+France,FRA,1.1019604,251,France,"France, Monaco",FR,FRA
+"Micronesia, Fed. Sts.",FSM,0.34169763,583,FS Micronesia,Federated State of Micronesia,FM,FSM
+Gabon,GAB,-0.746951379,266,Gabon,Gabon,GA,GAB
+United Kingdom,GBR,1.335267912,826,United Kingdom,United Kingdom,GB,GBR
+Georgia,GEO,0.431933356,268,Georgia,Georgia,GE,GEO
+Ghana,GHA,0.035970718,288,Ghana,Ghana,GH,GHA
+Guinea,GIN,-0.938274115,324,Guinea,Guinea,GN,GIN
+"Gambia, The",GMB,-0.401485114,270,Gambia,Gambia,GM,GMB
+Guinea-Bissau,GNB,-1.133547465,624,Guinea-Bissau,Guinea-Bissau,GW,GNB
+Equatorial Guinea,GNQ,-1.293393205,226,Equatorial Guinea,Equatorial Guinea,GQ,GNQ
+Greece,GRC,0.311744836,300,Greece,Greece,GR,GRC
+Grenada,GRD,0.263083441,308,Grenada,Grenada,GD,GRD
+Greenland,GRL,1.393923044,304,Greenland,Greenland,GL,GRL
+Guatemala,GTM,-0.599858222,320,Guatemala,Guatemala,GT,GTM
+French Guiana,GUF,1.116669724,,,,,
+Guam,GUM,0.71792711,316,Guam,Guam,GU,GUM
+Guyana,GUY,-0.22431575,328,Guyana,Guyana,GY,GUY
+"Hong Kong SAR, China",HKG,1.472861295,344,"China, Hong Kong SAR","China, Hong Kong Special Administrative Region",HK,HKG
+Honduras,HND,-0.624167631,340,Honduras,Honduras,HN,HND
+Croatia,HRV,0.460749872,191,Croatia,Croatia,HR,HRV
+Haiti,HTI,-1.145004382,332,Haiti,Haiti,HT,HTI
+Hungary,HUN,0.457446879,348,Hungary,Hungary,HU,HUN
+Indonesia,IDN,-0.147250948,360,Indonesia,Indonesia,ID,IDN
+India,IND,-0.116595907,699,India,India,IN,IND
+Ireland,IRL,1.401113073,372,Ireland,Ireland,IE,IRL
+"Iran, Islamic Rep.",IRN,-1.019035493,364,Iran,Iran,IR,IRN
+Iraq,IRQ,-1.523920168,368,Iraq,Iraq,IQ,IRQ
+Iceland,ISL,1.545003355,352,Iceland,Iceland,IS,ISL
+Israel,ISR,0.664052685,376,Israel,Israel,IL,ISR
+Italy,ITA,0.503231203,381,Italy,Italy,IT,ITA
+Jamaica,JAM,0.223596742,388,Jamaica,Jamaica,JM,JAM
+Jordan,JOR,-0.097824447,400,Jordan,Jordan,JO,JOR
+Japan,JPN,1.341739595,392,Japan,Japan,JP,JPN
+Kazakhstan,KAZ,-0.331205005,398,Kazakhstan,Kazakhstan,KZ,KAZ
+Kenya,KEN,-0.571426121,404,Kenya,Kenya,KE,KEN
+Kyrgyz Republic,KGZ,-0.630591884,417,Kyrgyzstan,Kyrgyzstan,KG,KGZ
+Cambodia,KHM,-0.769388123,116,Cambodia,Cambodia,KH,KHM
+Kiribati,KIR,0.326659804,296,Kiribati,Kiribati,KI,KIR
+St. Kitts and Nevis,KNA,0.610657255,659,Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA
+"Korea, Rep.",KOR,0.920619657,410,Rep. of Korea,Republic of Korea,KR,KOR
+Kuwait,KWT,-0.103394364,414,Kuwait,Kuwait,KW,KWT
+Lao PDR,LAO,-0.766074106,418,Lao People's Dem. Rep.,Lao People's Dem. Rep.,LA,LAO
+Lebanon,LBN,-0.844476526,422,Lebanon,Lebanon,LB,LBN
+Liberia,LBR,-0.737944453,430,Liberia,Liberia,LR,LBR
+Libya,LBY,-1.904131512,434,Libya,Libya,LY,LBY
+St. Lucia,LCA,0.585213803,662,Saint Lucia,Saint Lucia,LC,LCA
+Liechtenstein,LIE,1.626100838,,,,,
+Sri Lanka,LKA,-0.141001291,144,Sri Lanka,Sri Lanka,LK,LKA
+Lesotho,LSO,-0.323887908,426,Lesotho,Lesotho,LS,LSO
+Lithuania,LTU,0.883564805,440,Lithuania,Lithuania,LT,LTU
+Luxembourg,LUX,1.728364011,442,Luxembourg,Luxembourg,LU,LUX
+Latvia,LVA,0.783322374,428,Latvia,Latvia,LV,LVA
+Kosovo,KSV,-0.404663647,,,,,
+"Macao SAR, China",MAC,0.958631254,446,"China, Macao SAR","China, Macao Special Administrative Region",MO,MAC
+Morocco,MAR,-0.307740398,504,Morocco,Morocco,MA,MAR
+Monaco,MCO,1.137592524,,,,,
+Moldova,MDA,-0.354126252,498,Rep. of Moldova,Republic of Moldova,MD,MDA
+Madagascar,MDG,-0.762664164,450,Madagascar,Madagascar,MG,MDG
+Maldives,MDV,-0.494833142,462,Maldives,Maldives,MV,MDV
+Mexico,MEX,-0.342290495,484,Mexico,Mexico,MX,MEX
+Marshall Islands,MHL,-0.13595574,584,Marshall Isds,Marshall Islands,MH,MHL
+North Macedonia,MKD,-0.04002384,807,TFYR of Macedonia,The Former Yugoslav Republic of Macedonia,MK,MKD
+Mali,MLI,-0.907106737,466,Mali,Mali,ML,MLI
+Malta,MLT,1.058858732,470,Malta,Malta,MT,MLT
+Myanmar,MMR,-0.929684242,104,Myanmar,Myanmar,MM,MMR
+Mongolia,MNG,0.034030119,496,Mongolia,Mongolia,MN,MNG
+Montenegro,MNE,0.12392379,499,Montenegro,Montenegro,ME,MNE
+Mozambique,MOZ,-0.788409173,508,Mozambique,Mozambique,MZ,MOZ
+Mauritania,MRT,-0.750709544,478,Mauritania,Mauritania,MR,MRT
+Martinique,MTQ,1.080076396,,,,,
+Mauritius,MUS,0.763323506,480,Mauritius,Mauritius,MU,MUS
+Malawi,MWI,-0.501928957,454,Malawi,Malawi,MW,MWI
+Malaysia,MYS,0.481233247,458,Malaysia,Malaysia,MY,MYS
+Namibia,NAM,0.299812794,516,Namibia,Namibia,,NAM
+Niger,NER,-0.750263045,562,Niger,Niger,NE,NER
+Nigeria,NGA,-1.041867937,566,Nigeria,Nigeria,NG,NGA
+Nicaragua,NIC,-0.947562853,558,Nicaragua,Nicaragua,NI,NIC
+Niue,NIU,,570,Niue,Niue,NU,NIU
+Netherlands,NLD,1.692251881,528,Netherlands,Netherlands,NL,NLD
+Norway,NOR,1.769162258,579,Norway,"Norway, Svalbard and Jan Mayen",NO,NOR
+Nepal,NPL,-0.586310834,524,Nepal,Nepal,NP,NPL
+Nauru,NRU,0.008923249,520,Nauru,Nauru,NR,NRU
+New Zealand,NZL,1.815452079,554,New Zealand,New Zealand,NZ,NZL
+Oman,OMN,0.116619721,512,Oman,Oman,OM,OMN
+Pakistan,PAK,-0.965204388,586,Pakistan,Pakistan,PK,PAK
+Panama,PAN,0.089449253,591,Panama,Panama,PA,PAN
+Palau,PLW,0.280971651,585,Palau,Palau,PW,PLW
+Peru,PER,-0.140209864,604,Peru,Peru,PE,PER
+Philippines,PHL,-0.345414072,608,Philippines,Philippines,PH,PHL
+Papua New Guinea,PNG,-0.584095089,598,Papua New Guinea,Papua New Guinea,PG,PNG
+Poland,POL,0.640238131,616,Poland,Poland,PL,POL
+Puerto Rico,PRI,0.365626088,,,,,
+"Korea, Dem. Rep.",PRK,-1.612560237,408,Dem. People's Rep. of Korea,Democratic People's Republic of Korea,KP,PRK
+Portugal,PRT,1.071045667,620,Portugal,Portugal,PT,PRT
+Paraguay,PRY,-0.328481074,600,Paraguay,Paraguay,PY,PRY
+Qatar,QAT,0.36112991,634,Qatar,Qatar,QA,QAT
+Réunion,REU,0.86431371,,,,,
+Romania,ROM,0.148391835,642,Romania,Romania,RO,ROU
+Russian Federation,RUS,-0.642675186,643,Russian Federation,Russian Federation,RU,RUS
+Rwanda,RWA,-0.003314185,646,Rwanda,Rwanda,RW,RWA
+Samoa,WSM,0.649084715,882,Samoa,Samoa,WS,WSM
+Saudi Arabia,SAU,-0.240987428,682,Saudi Arabia,Saudi Arabia,SA,SAU
+Sudan,SDN,-1.572852949,729,Sudan,Sudan,SD,SDN
+Sudan,SDN,-1.572852949,736,Fmr Sudan,Former Sudan,SD,SDN
+Senegal,SEN,-0.076828581,686,Senegal,Senegal,SN,SEN
+Singapore,SGP,1.635441435,702,Singapore,Singapore,SG,SGP
+Solomon Islands,SLB,-0.215154419,90,Solomon Isds,Solomon Islands,SB,SLB
+Sierra Leone,SLE,-0.588821415,694,Sierra Leone,Sierra Leone,SL,SLE
+El Salvador,SLV,-0.362707902,222,El Salvador,El Salvador,SV,SLV
+San Marino,SMR,1.001535416,674,San Marino,San Marino,SM,SMR
+Somalia,SOM,-2.110064983,706,Somalia,Somalia,SO,SOM
+São Tomé and Principe,STP,-0.2155086,678,Sao Tome and Principe,Sao Tome and Principe,ST,STP
+Suriname,SUR,-0.198844065,740,Suriname,Suriname,SR,SUR
+Slovak Republic,SVK,0.672984168,703,Slovakia,Slovakia,SK,SVK
+Slovenia,SVN,0.934735666,705,Slovenia,Slovenia,SI,SVN
+Sweden,SWE,1.709804863,752,Sweden,Sweden,SE,SWE
+Swaziland,SWZ,-0.577039589,748,Swaziland,Swaziland,SZ,SWZ
+Seychelles,SYC,0.359148284,690,Seychelles,Seychelles,SC,SYC
+Syrian Arab Republic,SYR,-1.962194264,760,Syria,Syria,SY,SYR
+Chad,TCD,-1.380115628,148,Chad,Chad,TD,TCD
+Togo,TGO,-0.776322027,768,Togo,Togo,TG,TGO
+Thailand,THA,-0.286563803,764,Thailand,Thailand,TH,THA
+Tajikistan,TJK,-1.211319327,762,Tajikistan,Tajikistan,TJ,TJK
+Turkmenistan,TKM,-1.330166257,795,Turkmenistan,Turkmenistan,TM,TKM
+Timor-Leste,TMP,-0.464549099,626,Timor-Leste,Timor-Leste,TL,TLS
+Tonga,TON,0.257930867,776,Tonga,Tonga,TO,TON
+Trinidad and Tobago,TTO,0.076796028,780,Trinidad and Tobago,Trinidad and Tobago,TT,TTO
+Tunisia,TUN,-0.213570669,788,Tunisia,Tunisia,TN,TUN
+Turkey,TUR,-0.461867353,792,Turkey,Turkey,TR,TUR
+Tuvalu,TUV,0.31063187,798,Tuvalu,Tuvalu,TV,TUV
+"Taiwan, China",TWN,1.119193663,490,"Other Asia, nes","Other Asia, not elsewhere specified",,
+Tanzania,TZA,-0.551018074,834,United Rep. of Tanzania,United Republic of Tanzania,TZ,TZA
+Uganda,UGA,-0.591406872,800,Uganda,Uganda,UG,UGA
+Ukraine,UKR,-0.695749071,804,Ukraine,Ukraine,UA,UKR
+Uruguay,URY,0.863583475,858,Uruguay,Uruguay,UY,URY
+United States,USA,1.259923721,842,USA,"USA, Puerto Rico and US Virgin Islands",US,USA
+Uzbekistan,UZB,-0.946179787,860,Uzbekistan,Uzbekistan,UZ,UZB
+St. Vincent and the Grenadines,VCT,0.562632628,670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VCT
+"Venezuela, RB",VEN,-1.744699399,862,Venezuela,Venezuela,VE,VEN
+Virgin Islands (U.S.),VIR,0.877678108,,,,,
+Vietnam,VNM,-0.361769791,704,Viet Nam,Viet Nam,VN,VNM
+Vanuatu,VUT,0.098060278,548,Vanuatu,Vanuatu,VU,VUT
+West Bank and Gaza,WBG,-0.688031711,,,,,
+"Jersey, Channel Islands",JEY,1.232008179,,,,,
+"Yemen, Rep.",YEM,-2.000168284,887,Yemen,Yemen,YE,YEM
+Serbia,SRB,-0.0452796,688,Serbia,Serbia,RS,SRB
+South Africa,ZAF,0.130707363,710,South Africa,South Africa,ZA,ZAF
+South Africa,ZAF,0.130707363,711,So. African Customs Union,Southern African Customs Union,ZA,ZAF
+"Congo, Dem. Rep.",ZAR,-1.653194507,180,Dem. Rep. of the Congo,Democratic Republic of the Congo,CD,COD
+Zambia,ZMB,-0.378332185,894,Zambia,Zambia,ZM,ZMB
+Zimbabwe,ZWE,-1.174515853,716,Zimbabwe,Zimbabwe,ZW,ZWE
