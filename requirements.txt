@@ -4,4 +4,4 @@ pandas==1.2.4
 pyvis==0.1.9
 streamlit==0.83.0
 matplotlib==3.5.2
-xlrd==2.0.1
+xlrd==1.0.0
