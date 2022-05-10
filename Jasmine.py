@@ -20,7 +20,11 @@ import matplotlib.cm as cm
 import matplotlib
 from matplotlib.cm import ScalarMappable
 import matplotlib as mpl
+import streamlit as st
+import streamlit.components.v1 as components
 
+
+st.title('Cobalt Trade Network')
 
 
 #wgi
@@ -99,8 +103,9 @@ def plot_network(hs_code):
         nt.add_edge(row['i'], row['j'], weight=row['q']/(data_f['q'].sum()))
     
     #plt.colorbar()
-    nt.show('Jasmine.html')
-
+    nt.save_graph('Jasmine.html')
+    # nt.show('Jasmine.html')
+    HtmlFile = open('Jasmine.html', 'r', encoding='utf-8')
     return
 
 plot_network(hs_code = '841013')
